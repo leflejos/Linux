@@ -1,3 +1,10 @@
 lsblk - muestra todas las particiones.
 sudo umount /dev/""nombre_particion"" - Desmonta la particion de la unidad USB
 sudo mkfs.vfat -F 32 -n ""NOMBRE_DE_UNIDAD"" /dev/""nombre_particion"" - Formatea la unidad USB.
+-----------------------------------------------------------------------------
+fdisk -l     - Muestra los discos
+fdisk /dev/""NOMBRE""
+o - (Antes escribir "n" para mostrar el menú de ayuda)
+w - Para guardar y salir
+n - luego por defecto todo.
+w - por último, colocar la "w" para guardar y salir.
