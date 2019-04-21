@@ -1,0 +1,3 @@
+lsblk - muestra todas las particiones.
+sudo umount /dev/""nombre_particion"" - Desmonta la particion de la unidad USB
+sudo mkfs.vfat -F 32 -n ""NOMBRE_DE_UNIDAD"" /dev/""nombre_particion"" - Formatea la unidad USB.
