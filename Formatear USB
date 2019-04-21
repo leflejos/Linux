@@ -8,3 +8,5 @@ o - (Antes escribir "n" para mostrar el menú de ayuda)
 w - Para guardar y salir
 n - luego por defecto todo.
 w - por último, colocar la "w" para guardar y salir.
+-----------------------------------------------------------------------------
+partprobe - indica al kernel que vuelva a leer la tabla de particiones.
