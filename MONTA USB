@@ -1,0 +1,5 @@
+df -h
+or
+ls /dev/sd*
+and
+sudo mount /dev/sdb1 USB1
